@@ -1,0 +1,28 @@
+C:\Ana C\Unity\Prova\bin\Debug\net7.0\Prova.exe
+C:\Ana C\Unity\Prova\bin\Debug\net7.0\Prova.deps.json
+C:\Ana C\Unity\Prova\bin\Debug\net7.0\Prova.runtimeconfig.json
+C:\Ana C\Unity\Prova\bin\Debug\net7.0\Prova.dll
+C:\Ana C\Unity\Prova\bin\Debug\net7.0\Prova.pdb
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\Prova.AssemblyInfoInputs.cache
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\Prova.AssemblyInfo.cs
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\Prova.csproj.CoreCompileInputs.cache
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\Prova.dll
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\refint\Prova.dll
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\Prova.pdb
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\Prova.genruntimeconfig.cache
+C:\Ana C\Unity\Prova\obj\Debug\net7.0\ref\Prova.dll
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\Prova.AssemblyInfoInputs.cache
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\Prova.AssemblyInfo.cs
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\Prova.csproj.CoreCompileInputs.cache
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\Prova.dll
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\refint\Prova.dll
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\Prova.pdb
+C:\Users\LNV\Downloads\Prova\bin\Debug\net7.0\Prova.exe
+C:\Users\LNV\Downloads\Prova\bin\Debug\net7.0\Prova.deps.json
+C:\Users\LNV\Downloads\Prova\bin\Debug\net7.0\Prova.runtimeconfig.json
+C:\Users\LNV\Downloads\Prova\bin\Debug\net7.0\Prova.dll
+C:\Users\LNV\Downloads\Prova\bin\Debug\net7.0\Prova.pdb
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\Prova.genruntimeconfig.cache
+C:\Users\LNV\Downloads\Prova\obj\Debug\net7.0\ref\Prova.dll
